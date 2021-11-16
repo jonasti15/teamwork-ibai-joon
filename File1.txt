@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changed from new_feature by Jon
+=======
+holaaa pa ti mi colaaa
+>>>>>>> 11df60d6ef8409e246365dabb5dedf531faf893f
